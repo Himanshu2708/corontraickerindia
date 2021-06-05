@@ -1,0 +1,55 @@
+
+h2
+{
+	padding-left:500px;
+
+}
+
+
+.data
+{
+	padding-left:400px;
+}
+
+
+
+
+
+
+.tc
+{
+	background-color:blue;
+
+
+   }
+
+.td
+{
+	background-color:red;}
+
+.tr
+{
+	background-color:green;
+   
+}
+
+.dc
+{
+	background-color:yellow;
+  
+}
+
+.dd
+{  
+	background-color:red;
+}
+
+.dr
+{  
+	background-color:green;
+}
+
+table
+{
+	background-color: pink;
+}
